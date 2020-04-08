@@ -17,7 +17,7 @@ for i in range(1, 10):
 mamaList = [
     "Mama",
     "Jag",
-    "Jag",
+    "Sou",
     "Jag",
     "Jag4",
     "Jag2",

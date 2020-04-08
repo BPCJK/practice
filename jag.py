@@ -15,14 +15,8 @@ for i in range(1, 10):
     printMama(i)
 
 mamaList = [
-    "Mama",
-    "Jag",
-    "Sou",
-    "Jag",
-    "Jag4",
-    "Jag2",
-    "Jsdfgsvag",
-    "Jag4dsfgf",
+    "Mama", "Jag", "Sou", "Jag", "Jag4", "Jag2", "Jsdfgsvag", "Jag4dsfgf",
+    "Soureafnsfns"
 ]
 
 for j in range(2, 10):

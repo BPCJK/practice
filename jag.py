@@ -18,6 +18,12 @@ mamaList = [
     "Mama",
     "Jag",
     "Sou",
+    "Jag",
+    "Jag4",
+    "Jag2",
+    "Jsdfgsvag",
+    "Jag4dsfgf",
+    "Jag2sfdg",
 ]
 
 for j in range(2, 10):
